@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Rock and Roll ain'c code pollution
 Use the left arrow to go back!
